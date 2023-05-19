@@ -1,0 +1,18 @@
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\Release\ResolveAssemblyReference.cache
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\Release\PhoenixProfiler.Main_Form.resources
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\Release\PhoenixProfiler.Resources.resources
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\Release\Phoenix System Profiler 2008.vbproj.GenerateResource.Cache
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\Phoenix System Profiler.exe
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\Phoenix System Profiler.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\Phoenix System Profiler.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\SMT.Common.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\ModuleConfig.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\NvSharedLib.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\SMT.Common.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\SMT.Common.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\Release\Phoenix System Profiler.exe
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\Release\Phoenix System Profiler.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\Release\Phoenix System Profiler.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\SMT.Multimedia.Resources.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\SMT.Multimedia.Resources.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\Release\SMT.Multimedia.Resources.xml

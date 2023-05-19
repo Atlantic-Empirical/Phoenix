@@ -1,0 +1,90 @@
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.exe
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\SMT.Common.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\ModuleConfig.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\NvSharedLib.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\SMT.Common.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\SMT.Common.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Main_Form.resources
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Resources.resources
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler 2008.vbproj.GenerateResource.Cache
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.exe
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\4.0\Phoenix\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.exe
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Common.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\ModuleConfig.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\NvSharedLib.dll
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Common.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Common.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.pdb
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Main_Form.resources
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Resources.resources
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler 2008.vbproj.GenerateResource.Cache
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.exe
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.xml
+T:\SOURCE_CODE_WORKING\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.pdb
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.exe
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.pdb
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.xml
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Common.dll
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.dll
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\ModuleConfig.dll
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\NvSharedLib.dll
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Common.pdb
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Common.xml
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.pdb
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.xml
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Main_Form.resources
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Resources.resources
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler 2008.vbproj.GenerateResource.Cache
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.exe
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.xml
+T:\CODE\SMT\Applications\Phoenix\3.0\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.pdb
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.exe
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.xml
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.pdb
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.exe
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.pdb
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.xml
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\SMT.Common.dll
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.dll
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\ModuleConfig.dll
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\NvSharedLib.dll
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\SMT.Common.pdb
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\SMT.Common.xml
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.pdb
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.xml
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Main_Form.resources
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Resources.resources
+T:\CODE\SMT\Applications\Phoenix\3.1\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler 2008.vbproj.GenerateResource.Cache
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.exe
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.pdb
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\Phoenix System Profiler.xml
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\SMT.Common.dll
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.dll
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\ModuleConfig.dll
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\NvSharedLib.dll
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\SMT.Common.pdb
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\SMT.Common.xml
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.pdb
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\bin\x86\Debug\SMT.Multimedia.Resources.xml
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Main_Form.resources
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\obj\x86\Debug\PhoenixProfiler.Resources.resources
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler 2008.vbproj.GenerateResource.Cache
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.exe
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.xml
+T:\CODE\SMT\Applications\Phoenix\3.2\Phoenix System Profiler\obj\x86\Debug\Phoenix System Profiler.pdb

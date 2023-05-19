@@ -1,0 +1,2503 @@
+﻿<XtraSerializer version="1.0" application="BarManager">
+  <property name="$BarManager" iskey="true" value="BarManager">
+    <property name="#LayoutVersion" />
+    <property name="Items" iskey="true" value="22">
+      <property name="Item1" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">0</property>
+      </property>
+      <property name="Item2" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">1</property>
+      </property>
+      <property name="Item3" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="2">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">9</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">10</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">2</property>
+      </property>
+      <property name="Item4" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">3</property>
+      </property>
+      <property name="Item5" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">4</property>
+      </property>
+      <property name="Item6" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">5</property>
+      </property>
+      <property name="Item7" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="3">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">46</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">47</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">48</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">true</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">11</property>
+      </property>
+      <property name="Item8" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="19">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">74</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">100</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">2</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">true</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">19</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">3</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">20</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item5" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">4</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">21</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item6" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">5</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">22</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item7" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">6</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">23</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item8" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">7</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">24</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item9" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">8</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">25</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item10" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">9</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">26</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item11" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">10</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">27</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item12" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">11</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">28</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item13" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">12</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">29</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item14" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">13</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">30</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item15" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">14</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">101</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item16" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">15</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">31</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item17" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">16</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">32</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item18" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">17</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">33</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item19" isnull="true" iskey="true">
+            <property name="UserCaption" />
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="RecentIndex">18</property>
+            <property name="ImageIndex">-1</property>
+            <property name="BeginGroup">false</property>
+            <property name="Visible">true</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="ItemId">34</property>
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="KeyTip" />
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="PageGroupName" />
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">12</property>
+      </property>
+      <property name="Item9" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="5">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">49</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">52</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">53</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">54</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">3</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">true</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item5" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">73</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">4</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">13</property>
+      </property>
+      <property name="Item10" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="6">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">56</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">57</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">58</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">59</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">3</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item5" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">104</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">4</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item6" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">105</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">5</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">14</property>
+      </property>
+      <property name="Item11" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="4">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">75</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">76</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">77</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">98</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">3</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">true</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">15</property>
+      </property>
+      <property name="Item12" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="5">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">62</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">61</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">106</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">true</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">64</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">3</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">true</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item5" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">65</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">4</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">16</property>
+      </property>
+      <property name="Item13" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="4">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">50</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">51</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">66</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">true</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">67</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">3</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">49</property>
+      </property>
+      <property name="Item14" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">54</property>
+      </property>
+      <property name="Item15" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="2">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">70</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">99</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">69</property>
+      </property>
+      <property name="Item16" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="9">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">78</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">79</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">80</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">81</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">3</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item5" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">82</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">4</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item6" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">83</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">5</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item7" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">84</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">6</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item8" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">85</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">7</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item9" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">86</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">8</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">75</property>
+      </property>
+      <property name="Item17" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="5">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">87</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">88</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">91</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">90</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">3</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item5" isnull="true" iskey="true">
+            <property name="ClickCount">20</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">92</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">4</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">true</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">76</property>
+      </property>
+      <property name="Item18" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="4">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">93</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">94</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">95</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="UserWidth">0</property>
+            <property name="UserCaption" />
+            <property name="ClickCount">20</property>
+            <property name="GalleryBarItemName" />
+            <property name="ItemId">96</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="Visible">true</property>
+            <property name="RecentIndex">3</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="BeginGroup">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="KeyTip" />
+            <property name="PageGroupName" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="Id">77</property>
+      </property>
+      <property name="Item19" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">92</property>
+      </property>
+      <property name="Item20" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">99</property>
+      </property>
+      <property name="Item21" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">102</property>
+      </property>
+      <property name="Item22" isnull="true" iskey="true">
+        <property name="ItemLinks" iskey="true" value="0" />
+        <property name="Id">103</property>
+      </property>
+    </property>
+    <property name="MenuAnimationType">System</property>
+    <property name="LargeIcons">false</property>
+    <property name="ShowFullMenus">true</property>
+    <property name="ShowFullMenusAfterDelay">true</property>
+    <property name="ShowShortcutInScreenTips">true</property>
+    <property name="ShowScreenTipsInToolbars">true</property>
+    <property name="Bars" iskey="true" value="1">
+      <property name="Item1" isnull="true" iskey="true">
+        <property name="BarName">Main Menus</property>
+        <property name="Text">Main Menus</property>
+        <property name="FloatSize">@1,Width=0@1,Height=0</property>
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="DockStyle">Top</property>
+        <property name="StandaloneBarDockControlName" />
+        <property name="Visible">true</property>
+        <property name="DockRow">0</property>
+        <property name="ItemLinks" iskey="true" value="7">
+          <property name="Item1" isnull="true" iskey="true">
+            <property name="ClickCount">0</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">11</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">0</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item2" isnull="true" iskey="true">
+            <property name="ClickCount">0</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">12</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">1</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item3" isnull="true" iskey="true">
+            <property name="ClickCount">0</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">13</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">2</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item4" isnull="true" iskey="true">
+            <property name="ClickCount">0</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">14</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">3</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item5" isnull="true" iskey="true">
+            <property name="ClickCount">0</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">15</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">4</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item6" isnull="true" iskey="true">
+            <property name="ClickCount">0</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">69</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">5</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+          <property name="Item7" isnull="true" iskey="true">
+            <property name="ClickCount">0</property>
+            <property name="UserWidth">0</property>
+            <property name="ItemId">16</property>
+            <property name="IsGalleryToolbarItemLink">false</property>
+            <property name="GalleryBarItemName" />
+            <property name="UserCaption" />
+            <property name="Visible">true</property>
+            <property name="RecentIndex">6</property>
+            <property name="MostRecentlyUsed">true</property>
+            <property name="UserPaintStyle">Standard</property>
+            <property name="ImageIndex">-1</property>
+            <property name="PageGroupName" />
+            <property name="BeginGroup">false</property>
+            <property name="KeyTip" />
+            <property name="GalleryLinkIndex">-1</property>
+            <property name="IsPageGroupContentToolbarButtonLink">false</property>
+            <property name="UserDefine">None</property>
+          </property>
+        </property>
+        <property name="OptionsBar" isnull="true" iskey="true">
+          <property name="Hidden">false</property>
+          <property name="DrawSizeGrip">false</property>
+          <property name="MultiLine">false</property>
+          <property name="UseWholeRow">true</property>
+          <property name="RotateWhenVertical">true</property>
+          <property name="DrawDragBorder">false</property>
+          <property name="AllowRename">false</property>
+          <property name="AllowDelete">false</property>
+          <property name="AllowQuickCustomization">false</property>
+          <property name="DisableCustomization">true</property>
+          <property name="DisableClose">true</property>
+        </property>
+        <property name="DockCol">0</property>
+        <property name="Offset">0</property>
+      </property>
+    </property>
+    <property name="CloseButtonAffectAllTabs">true</property>
+  </property>
+  <property name="$DockManager" iskey="true" value="DockManager">
+    <property name="#LayoutVersion" />
+    <property name="TopZIndexControls" iskey="true" value="4">
+      <property name="Item1">DevExpress.XtraBars.BarDockControl</property>
+      <property name="Item2">System.Windows.Forms.StatusBar</property>
+      <property name="Item3">DevExpress.XtraBars.Ribbon.RibbonStatusBar</property>
+      <property name="Item4">DevExpress.XtraBars.Ribbon.RibbonControl</property>
+    </property>
+    <property name="AutoHideContainers" iskey="true" value="0" />
+    <property name="DockingOptions" isnull="true" iskey="true">
+      <property name="ShowAutoHideButton">true</property>
+      <property name="ShowMaximizeButton">true</property>
+      <property name="FloatOnDblClick">true</property>
+      <property name="ShowCloseButton">true</property>
+      <property name="HideImmediatelyOnAutoHide">false</property>
+      <property name="CursorFloatCanceled" isnull="true" />
+      <property name="ShowCaptionOnMouseHover">false</property>
+      <property name="CloseActiveTabOnly">true</property>
+    </property>
+    <property name="ActivePanelID">3</property>
+    <property name="Panels" iskey="true" value="24">
+      <property name="Item1" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">-1</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Left</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">0</property>
+        <property name="Count">0</property>
+        <property name="Text">Remote</property>
+        <property name="XtraZIndex">4</property>
+        <property name="XtraBounds">@1,X=0@2,Y=24@3,Width=170@3,Height=733</property>
+        <property name="ID">7dc5541e-e61e-4762-bbc6-74dd9c9a59dc</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item2" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">-1</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Top</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">1</property>
+        <property name="Count">3</property>
+        <property name="Text">panelContainer3</property>
+        <property name="XtraZIndex">3</property>
+        <property name="XtraBounds">@3,X=170@2,Y=24@3,Width=974@3,Height=253</property>
+        <property name="ID">1fbf4cb6-d3f0-4959-a3ce-3a3ab34c55b6</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item3" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">-1</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Right</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">2</property>
+        <property name="Count">0</property>
+        <property name="Text">Options</property>
+        <property name="XtraZIndex">2</property>
+        <property name="XtraBounds">@3,X=870@3,Y=277@3,Width=274@3,Height=480</property>
+        <property name="ID">41e3aadb-f35d-4aba-9929-355bae991c20</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item4" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">-1</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Bottom</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">true</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">13</property>
+        <property name="XtraID">3</property>
+        <property name="Count">3</property>
+        <property name="Text">panelContainer5</property>
+        <property name="XtraZIndex">1</property>
+        <property name="XtraBounds">@3,X=170@3,Y=560@3,Width=700@3,Height=197</property>
+        <property name="ID">cb0dc575-7021-4435-8b33-8329b56b81c3</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item5" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">-1</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Top</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">true</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">16</property>
+        <property name="XtraID">4</property>
+        <property name="Count">8</property>
+        <property name="Text">panelContainer6</property>
+        <property name="XtraZIndex">0</property>
+        <property name="XtraBounds">@3,X=170@3,Y=277@3,Width=700@3,Height=283</property>
+        <property name="ID">3eba9e7b-6a8f-4230-9c69-c4b8516406c6</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item6" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">1</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Right</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">true</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">8</property>
+        <property name="XtraID">5</property>
+        <property name="Count">3</property>
+        <property name="Text">panelContainer2</property>
+        <property name="XtraZIndex">0</property>
+        <property name="XtraBounds">@1,X=0@1,Y=0@3,Width=397@3,Height=253</property>
+        <property name="ID">38560178-1006-4bda-9385-5e6f541732bd</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item7" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">1</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Right</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">6</property>
+        <property name="Count">0</property>
+        <property name="Text">User Operations</property>
+        <property name="XtraZIndex">1</property>
+        <property name="XtraBounds">@3,X=397@1,Y=0@3,Width=311@3,Height=253</property>
+        <property name="ID">fdd9bcdb-70e5-4143-ba26-6046adae6d9e</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item8" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">1</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">true</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">11</property>
+        <property name="XtraID">7</property>
+        <property name="Count">2</property>
+        <property name="Text">panelContainer4</property>
+        <property name="XtraZIndex">2</property>
+        <property name="XtraBounds">@3,X=708@1,Y=0@3,Width=266@3,Height=253</property>
+        <property name="ID">1d3eb1e0-8c8b-4d37-8936-94611e842bcd</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item9" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">5</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">8</property>
+        <property name="Count">0</property>
+        <property name="Text">Dashboard</property>
+        <property name="XtraZIndex">0</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=391@3,Height=205</property>
+        <property name="ID">788150ef-e082-4c22-abfc-1323afc1ffe3</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item10" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">5</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">9</property>
+        <property name="Count">0</property>
+        <property name="Text">Ext. Dashboard</property>
+        <property name="XtraZIndex">1</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=391@3,Height=205</property>
+        <property name="ID">e2c36901-15f2-48fe-983b-87f17af73b2a</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item11" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">5</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">10</property>
+        <property name="Count">0</property>
+        <property name="Text">Volume Info</property>
+        <property name="XtraZIndex">2</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=391@3,Height=205</property>
+        <property name="ID">7b83ad7d-2707-4dff-ae1c-bb7ad34a6914</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item12" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">7</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">11</property>
+        <property name="Count">0</property>
+        <property name="Text">SPRMs</property>
+        <property name="XtraZIndex">0</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=260@3,Height=205</property>
+        <property name="ID">caef506f-70de-47a9-aa3c-87cd3507783b</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item13" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">7</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">12</property>
+        <property name="Count">0</property>
+        <property name="Text">GPRMs</property>
+        <property name="XtraZIndex">1</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=260@3,Height=205</property>
+        <property name="ID">ca2d7292-e3d7-4432-b338-a8d081b67f70</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item14" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">3</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">13</property>
+        <property name="Count">0</property>
+        <property name="Text">Project Selector</property>
+        <property name="XtraZIndex">0</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=149</property>
+        <property name="ID">fe2938ab-1622-4094-b1fb-2bebe6d2a922</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item15" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">3</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">14</property>
+        <property name="Count">0</property>
+        <property name="Text">Console</property>
+        <property name="XtraZIndex">1</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=149</property>
+        <property name="ID">d753dfe8-6888-4aca-a808-cc5e99f102f3</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item16" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">3</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">15</property>
+        <property name="Count">0</property>
+        <property name="Text">Play Log</property>
+        <property name="XtraZIndex">2</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=149</property>
+        <property name="ID">682d6b15-6dc8-4ca0-8d93-0e67bb0b957b</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item17" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">true</property>
+        <property name="XtraParentID">4</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">16</property>
+        <property name="Count">0</property>
+        <property name="Text">Video Stream Info</property>
+        <property name="XtraZIndex">0</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=235</property>
+        <property name="ID">eec2a5d3-0837-4267-9d85-56fe6ec0303f</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item18" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">4</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">17</property>
+        <property name="Count">0</property>
+        <property name="Text">Audio Stream Info</property>
+        <property name="XtraZIndex">1</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=235</property>
+        <property name="ID">0a560024-c09f-4a79-a228-05880322d0a0</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item19" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">4</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">18</property>
+        <property name="Count">0</property>
+        <property name="Text">Subtitle Stream Info</property>
+        <property name="XtraZIndex">2</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=235</property>
+        <property name="ID">d6fb4928-675c-4a5e-ba76-ff79d446eec1</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item20" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">4</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">19</property>
+        <property name="Count">0</property>
+        <property name="Text">VMGM/VTSM</property>
+        <property name="XtraZIndex">3</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=235</property>
+        <property name="ID">b8fff803-9e36-4ffa-9198-8361908b61cd</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item21" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">4</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">20</property>
+        <property name="Count">0</property>
+        <property name="Text">Markers</property>
+        <property name="XtraZIndex">4</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=235</property>
+        <property name="ID">2f18f92b-0291-4238-8706-d1fa63f69836</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item22" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">4</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">21</property>
+        <property name="Count">0</property>
+        <property name="Text">Macros</property>
+        <property name="XtraZIndex">5</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=235</property>
+        <property name="ID">91e89974-07db-4c0a-8a38-d17d8dfd4a6a</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item23" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">4</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">22</property>
+        <property name="Count">0</property>
+        <property name="Text">Stream Playback</property>
+        <property name="XtraZIndex">6</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=235</property>
+        <property name="ID">18821386-b94e-4d6b-8899-a5fd7c1c5d59</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+      <property name="Item24" isnull="true" iskey="true">
+        <property name="TabText" />
+        <property name="FloatSize">@3,Width=200@3,Height=200</property>
+        <property name="FloatVertical">false</property>
+        <property name="XtraParentID">4</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="ShowMaximizeButton">true</property>
+          <property name="AllowDockFill">true</property>
+          <property name="ShowAutoHideButton">true</property>
+          <property name="FloatOnDblClick">true</property>
+          <property name="ShowCloseButton">true</property>
+          <property name="AllowDockLeft">true</property>
+          <property name="AllowFloating">true</property>
+          <property name="AllowDockRight">true</property>
+          <property name="AllowDockBottom">true</property>
+          <property name="AllowDockTop">true</property>
+        </property>
+        <property name="Hint" />
+        <property name="FloatLocation">@1,X=0@1,Y=0</property>
+        <property name="TabsPosition">Bottom</property>
+        <property name="TabsScroll">false</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Dock">Fill</property>
+        <property name="Visibility">Visible</property>
+        <property name="Tabbed">false</property>
+        <property name="XtraSavedParentID">-1</property>
+        <property name="XtraActiveChildID">-1</property>
+        <property name="XtraID">23</property>
+        <property name="Count">0</property>
+        <property name="Text">GPRM Viewer</property>
+        <property name="XtraZIndex">7</property>
+        <property name="XtraBounds">@1,X=3@2,Y=24@3,Width=694@3,Height=235</property>
+        <property name="ID">238ef61a-08cd-4a94-9840-a124199e5fc4</property>
+        <property name="SavedTabbed">false</property>
+        <property name="SavedIndex">-1</property>
+        <property name="SavedDock">Float</property>
+        <property name="XtraAutoHideContainerDock">Float</property>
+      </property>
+    </property>
+  </property>
+</XtraSerializer>

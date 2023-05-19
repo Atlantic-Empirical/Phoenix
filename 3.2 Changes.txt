@@ -1,0 +1,16 @@
+
+
+* remove SLPS licensing 
+	- removed licensing dialog
+	- removed all SLPS related code
+
+* fix sony issues
+
+* remove SMT Product license manager app from solution
+
+* disney issues
+	- make yellow dot/non-seamless cell display an option on extended options
+
+* fixed the User Manual item in the help menu
+
+* conversion to 2010

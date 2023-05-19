@@ -1,0 +1,597 @@
+﻿<ps:ProtectSettingsDs xmlns:ps="http://www.microsoft.com/slps/ProtectSettingsDs.xsd">
+  <ProtectedAssembly xmlns="http://www.microsoft.com/slps/ProtectSettingsDs.xsd">
+    <ModuleName>bin\Release\Phoenix.exe</ModuleName>
+    <NoLicenseHandlerType>Standard</NoLicenseHandlerType>
+    <DisableDirectLicensesAccess>false</DisableDirectLicensesAccess>
+    <EmbedGenericLicense>false</EmbedGenericLicense>
+    <ModuleType>Assembly</ModuleType>
+    <SkipResign>false</SkipResign>
+  </ProtectedAssembly>
+  <ProtectedAssembly xmlns="http://www.microsoft.com/slps/ProtectSettingsDs.xsd">
+    <ModuleName>bin\Release\SMT.Common.dll</ModuleName>
+    <NoLicenseHandlerType>Standard</NoLicenseHandlerType>
+    <DisableDirectLicensesAccess>false</DisableDirectLicensesAccess>
+    <EmbedGenericLicense>false</EmbedGenericLicense>
+    <ModuleType>Assembly</ModuleType>
+    <SkipResign>false</SkipResign>
+  </ProtectedAssembly>
+  <Global xmlns="http://www.microsoft.com/slps/ProtectSettingsDs.xsd">
+    <TargetCLRVersion>v2.0.50727</TargetCLRVersion>
+    <ProductName>Phoenix</ProductName>
+    <ProductVersion>3</ProductVersion>
+    <VendorName>Sequoyan Media Technology - sequoyan.media.technology@gmail.com</VendorName>
+    <OutputDir>bin\Release.Protected</OutputDir>
+    <InputDir>bin\Release</InputDir>
+    <CopyProtectedFilesOnly>true</CopyProtectedFilesOnly>
+    <CopyRedistFiles>true</CopyRedistFiles>
+    <Permutation>44895f25-ad00-45f8-85e9-dab9a333aa78</Permutation>
+    <TransformationSettings><RuleSet>
+  <IncludeRules>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.cPhoenixLicensing</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.cPhoenixLicensing:.ctor()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.cPhoenixLicensing</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.cPhoenixLicensing:GetValidLicense()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Phoenix_Form</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Phoenix_Form:Filter_Check()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Phoenix_Form</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Phoenix_Form:HandlePlaybackStarted()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Phoenix_Form</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Phoenix_Form:HandlePlayerInitialized()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Phoenix_Form</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Phoenix_Form:InitializeUserProfile()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Phoenix_Form</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Phoenix_Form:Keystone_Check()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Phoenix_Form</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Phoenix_Form:QDVD_Check()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Phoenix_Form</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Phoenix_Form:RebootProject()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Phoenix_Form</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Phoenix_Form:SetupEmulator()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Program</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Program:.ctor()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>Phoenix, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Applications.Phoenix</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Applications.Phoenix.Program</Name>
+          </Type>
+          <Method>
+            <Name>[Phoenix]SMT.Applications.Phoenix.Program:Main()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Common.Media.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Common.Media.Players.DVD.cDVDPlayerOMNI</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Common.Media.Players.DVD.cDVDPlayerOMNI:EjectProject(bool)</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Common.Media.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Common.Media.Players.DVD.cDVDPlayerOMNI</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Common.Media.Players.DVD.cDVDPlayerOMNI:EnterBtn()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Common.Media.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Common.Media.Players.DVD.cDVDPlayerOMNI</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Common.Media.Players.DVD.cDVDPlayerOMNI:FilterCheck_shr()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Common.Media.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Common.Media.Players.DVD.cDVDPlayerOMNI</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Common.Media.Players.DVD.cDVDPlayerOMNI:Pause()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Common.Media.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Common.Media.Players.DVD.cDVDPlayerOMNI</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Common.Media.Players.DVD.cDVDPlayerOMNI:PlayTitle(string)</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Common.Media.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Common.Media.Players.DVD.cDVDPlayerOMNI</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Common.Media.Players.DVD.cDVDPlayerOMNI:RenderSystemJacketPicture()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Common.Media.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Common.Media.Players.DVD.cDVDPlayerOMNI</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Common.Media.Players.DVD.cDVDPlayerOMNI:Resume()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Common.Media.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Common.Media.Players.DVD.cDVDPlayerOMNI</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Common.Media.Players.DVD.cDVDPlayerOMNI:SlowForward()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=2.0.1.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Common.Media.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Common.Media.Players.DVD.cDVDPlayerOMNI</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Common.Media.Players.DVD.cDVDPlayerOMNI:Stop()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Multimedia.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Multimedia.Players.DVD.cDVDPlayer</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Multimedia.Players.DVD.cDVDPlayer:EnterBtn()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Multimedia.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Multimedia.Players.DVD.cDVDPlayer</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Multimedia.Players.DVD.cDVDPlayer:FilterCheck()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+    <Rule>
+      <Filter>
+        <CodeEntityFilters>
+          <Assembly>
+            <Name>SMT.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Name>
+          </Assembly>
+          <Namespace>
+            <Name>SMT.Multimedia.Players.DVD</Name>
+          </Namespace>
+          <Type>
+            <Name>SMT.Multimedia.Players.DVD.cDVDPlayer</Name>
+          </Type>
+          <Method>
+            <Name>[SMT.Common]SMT.Multimedia.Players.DVD.cDVDPlayer:Play()</Name>
+          </Method>
+          <Property />
+          <Field />
+        </CodeEntityFilters>
+      </Filter>
+      <RuleParams>
+        <UnlockingFeature>Execute</UnlockingFeature>
+      </RuleParams>
+    </Rule>
+  </IncludeRules>
+  <ExcludeRules />
+</RuleSet></TransformationSettings>
+    <EnableOneWayTransformation>true</EnableOneWayTransformation>
+    <OriginSLMVersion>2.0.1314.0</OriginSLMVersion>
+    <KeepIntermediateFiles>false</KeepIntermediateFiles>
+    <ReferencePaths />
+    <UseVersionedRedist>false</UseVersionedRedist>
+    <CompatibleTextRenderingDefault />
+    <CloakMethodCalls>false</CloakMethodCalls>
+    <CloakCrossAssemblyCallsToo>false</CloakCrossAssemblyCallsToo>
+    <DropMetadata>false</DropMetadata>
+    <SuppressAutomaticMethodExclusion>false</SuppressAutomaticMethodExclusion>
+    <SuppressAutomaticVirtualMethodWrapping>false</SuppressAutomaticVirtualMethodWrapping>
+  </Global>
+</ps:ProtectSettingsDs>

@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DVDNavigator]
+"MinPrefetch"=dword:000002BC
+"MaxPrefetch"=dword:000007D0

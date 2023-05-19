@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B29F8B99-B83C-4FF2-85C1-EC7AEE7C4DE3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SMT.Applications.Phoenix.Program</StartupObject>
+    <RootNamespace>SMT.Applications.Phoenix</RootNamespace>
+    <AssemblyName>Phoenix</AssemblyName>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <ApplicationIcon>Resources\phx_070509.ico</ApplicationIcon>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Phoenix.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>None</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>false</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Phoenix.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugSymbols>false</DebugSymbols>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Phoenix.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Phoenix.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>None</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v8.1, Version=8.1.10.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.OfficeSkins.v8.1, Version=8.1.10.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v8.1, Version=8.1.10.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v8.1, Version=8.1.10.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v8.1, Version=8.1.10.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v8.1, Version=8.1.10.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.DirectX.Direct3D, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SMT\Phoenix\Microsoft.DirectX.Direct3D.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgGenericInput.Designer.vb">
+      <DependentUpon>dlgGenericInput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgGenericInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgTimecodeInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgImageMounting.Designer.vb">
+      <DependentUpon>dlgImageMounting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgImageMounting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgNonSeamlessCells.Designer.vb">
+      <DependentUpon>dlgNonSeamlessCells.vb</DependentUpon>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgNonSeamlessCells.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Shared\AppGlobals.vb">
+    </Compile>
+    <Compile Include="src\Dialogs\dlgCHTTSearchAccelerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgManualMarker.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgPlayerDefaultAccelerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgTimesearchAccelerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgWrongRegion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Dialogs\dlgLayerbreakSelector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Forms\ExtendedOptions_Form.Designer.vb">
+      <DependentUpon>ExtendedOptions_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="src\Forms\ExtendedOptions_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Forms\Phoenix_Form.Designer.vb">
+      <DependentUpon>Phoenix_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="src\Forms\Phoenix_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Forms\Phoenix_SplashScreen.Designer.vb">
+      <DependentUpon>Phoenix_SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="src\Forms\Phoenix_SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\Shared\PhoenixDongle.vb" />
+    <Compile Include="src\Shared\mNavUpgrader.vb" />
+    <Compile Include="src\Shared\Program.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Dialogs\dlgCHTTSearchAccelerator.resx">
+      <DependentUpon>dlgCHTTSearchAccelerator.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Dialogs\dlgManualMarker.resx">
+      <DependentUpon>dlgManualMarker.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Dialogs\dlgPlayerDefaultAccelerator.resx">
+      <DependentUpon>dlgPlayerDefaultAccelerator.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Dialogs\dlgTimesearchAccelerator.resx">
+      <DependentUpon>dlgTimesearchAccelerator.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Dialogs\dlgWrongRegion.resx">
+      <DependentUpon>dlgWrongRegion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Dialogs\dlgLayerbreakSelector.resx">
+      <DependentUpon>dlgLayerbreakSelector.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Forms\ExtendedOptions_Form.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ExtendedOptions_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Forms\Phoenix_Form.resx">
+      <DependentUpon>Phoenix_Form.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Forms\Phoenix_SplashScreen.resx">
+      <DependentUpon>Phoenix_SplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <None Include="My Project\app.manifest" />
+    <EmbeddedResource Include="Resources\PhoenixSplash_080522.png" />
+    <EmbeddedResource Include="Resources\phx_070509.ico" />
+    <Content Include="Resources\SecureUpdate.dll">
+    </Content>
+    <Content Include="Resources\SentinelKeyW.DLL">
+    </Content>
+    <Content Include="Resources\SMT_IMMT.exe">
+    </Content>
+    <Content Include="Resources\SMT_Logo_160x54.png" />
+    <EmbeddedResource Include="Resources\StandardUILayout.xml" />
+    <EmbeddedResource Include="src\Dialogs\dlgGenericInput.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgGenericInput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Dialogs\dlgTimecodeInput.resx">
+      <DependentUpon>dlgTimecodeInput.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Dialogs\dlgImageMounting.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgImageMounting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\Dialogs\dlgNonSeamlessCells.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>dlgNonSeamlessCells.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Libraries\SMT.Common\Common 2.0\SMT.Common 2.0.vbproj">
+      <Project>{B76A1EB3-41D7-4033-9815-741E6D95A924}</Project>
+      <Name>SMT.Common 2.0</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\Libraries\SMT.Multimedia.Resources\SMT.Multimedia.Resources.vbproj">
+      <Project>{922F7F84-9FF7-4329-BFA1-A823B2639206}</Project>
+      <Name>SMT.Multimedia.Resources</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
